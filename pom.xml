@@ -55,7 +55,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.example.demo.CustomerAccountIntegratedServer</mainClass>
+					<mainClass>com.example.demo.CustomerAccountIntegratedServerApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
